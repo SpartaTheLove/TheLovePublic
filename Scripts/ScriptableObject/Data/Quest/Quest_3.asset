@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d699701543a6ee4f8c00eb4fbb65052, type: 3}
+  m_Name: Quest_3
+  m_EditorClassIdentifier: 
+  QuestID: 3
+  QuestType: 1
+  QuestName: "\uAC8C-\uBA58\uC744 \uC7A1\uC544\uB77C"
+  QuestDescription: "\uC131\uC9C0\uC724 1\uB9C8\uB9AC \uC7A1\uAE30"
+  IsProcessing: 0
+  IsClear: 0
+  GetRewards: 0
+  Rewards:
+  - {fileID: 5176510851731601884, guid: 333a38669c7f9bc4b948f455f63ce354, type: 3}
+  Enemies:
+  - {fileID: 1186345927762036649, guid: 6e0cad7e0419b604b9f01796bcd51143, type: 3}
+  RequiredKillCount: 01000000
+  NowKillCount: 00000000

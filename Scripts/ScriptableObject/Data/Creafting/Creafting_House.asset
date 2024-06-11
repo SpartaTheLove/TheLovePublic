@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39c13d271590fde458869ad3e0abfb58, type: 3}
+  m_Name: Creafting_House
+  m_EditorClassIdentifier: 
+  InputItems:
+  - ItemID: 9
+    count: 4
+  OutData: {fileID: 11400000, guid: b50d0397e37b86240b143b0146dc1e6f, type: 2}

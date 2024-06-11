@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d699701543a6ee4f8c00eb4fbb65052, type: 3}
+  m_Name: Quest_4
+  m_EditorClassIdentifier: Assembly-CSharp::SlayMonsterQuest
+  QuestID: 4
+  QuestType: 1
+  QuestName: "\uBCF4\uC2A4 \uCC98\uCE58"
+  QuestDescription: "\uBCF4\uC2A4\uB97C \uC8FD\uC774\uC790"
+  IsProcessing: 0
+  IsClear: 0
+  GetRewards: 0
+  Rewards:
+  - {fileID: 5176510851731601884, guid: 333a38669c7f9bc4b948f455f63ce354, type: 3}
+  - {fileID: 8536981913473989875, guid: 2136b082183c83a408e637f229319770, type: 3}
+  - {fileID: 408319600263484798, guid: 8d18ef231b7bddd428d558b83eca8843, type: 3}
+  - {fileID: 2935964610359161878, guid: 05054071cc2418342a6cffc00c129571, type: 3}
+  - {fileID: 2935964610359161878, guid: 05054071cc2418342a6cffc00c129571, type: 3}
+  Enemies:
+  - {fileID: 6255991095702283932, guid: b9a8a4dcd4f9b2e439cfefee65363597, type: 3}
+  RequiredKillCount: 01000000
+  NowKillCount: 00000000

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e894fceed9238824fab846dda03cb96c, type: 3}
+  m_Name: Item_Potion
+  m_EditorClassIdentifier: 
+  ItemID: 6
+  itemName: "\uCCB4\uB825 \uD68C\uBCF5 \uD3EC\uC158"
+  description: "\uCCB4\uB825\uC774 +20 \uD68C\uBCF5\uB429\uB2C8\uB2E4."
+  type: 1
+  icon: {fileID: 21300000, guid: 4ce65a6aeb600fb4aa4a59849ef3a149, type: 3}
+  dropPrefab: {fileID: 8536981913473989875, guid: 2136b082183c83a408e637f229319770, type: 3}
+  canStack: 1
+  maxStackAmount: 15
+  itemDataConsumables:
+  - type: 1
+    value: 20
+  equipPrefab: {fileID: 0}
+  status: 0
