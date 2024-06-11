@@ -16,10 +16,10 @@
 ![image](https://github.com/SpartaTheLove/TheLovePrivate/assets/167046876/5de2ff50-0617-4244-a538-37a96d3ceaac)
 
 ![image](https://github.com/SpartaTheLove/TheLovePrivate/assets/167046876/2466e5bf-2be5-4f82-918a-e0d1113d80b2)
-url 링크: https://www.figma.com/file/G8Vz7G925BCCoqwgYYhIHi?embed_host=notion&kind=file&node-id=0-1&t=iy658O3VmhATChLA-0&viewer=1
+와이어 프레임 링크: https://www.figma.com/file/G8Vz7G925BCCoqwgYYhIHi?embed_host=notion&kind=file&node-id=0-1&t=iy658O3VmhATChLA-0&viewer=1
 
 ![image](https://github.com/SpartaTheLove/TheLovePrivate/assets/167046876/8ca8061b-e632-4bcf-a8fc-40bba43c45db)
-링크: https://www.figma.com/file/G8Vz7G925BCCoqwgYYhIHi?embed_host=notion&kind=file&node-id=1-3&t=iy658O3VmhATChLA-0&viewer=1
+UML 링크: https://www.figma.com/file/G8Vz7G925BCCoqwgYYhIHi?embed_host=notion&kind=file&node-id=1-3&t=iy658O3VmhATChLA-0&viewer=1
 
 ![image](https://github.com/SpartaTheLove/TheLovePrivate/assets/167046876/d32f69b5-9445-4ca0-a413-3dd5379336b9)
 
