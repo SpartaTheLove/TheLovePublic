@@ -1,4 +1,3 @@
-# TheLovePrivate
 스파르타 캠프 팀프로젝트 - [3D 미연시 게임] The Love
 ![image](https://github.com/SpartaTheLove/TheLovePrivate/assets/167046876/6213ec34-fb3c-4727-b989-1f58fc448201)
 
@@ -32,8 +31,9 @@ url 링크: https://www.figma.com/file/G8Vz7G925BCCoqwgYYhIHi?embed_host=notion&
 
 ![image](https://github.com/SpartaTheLove/TheLovePrivate/assets/167046876/f1bb11af-8ea6-4b03-a274-799a64095302)
 
-페이지 이미지는 없음
-시연 영상 링크: 
+![image](https://github.com/SpartaTheLove/TheLovePublic/assets/66246253/eb560224-b263-447f-9a9a-83f90effecc6)
+
+시연 영상 링크: https://youtu.be/3SFSOZWAbRs?si=0xEm0F1JOPlOjcP3
 
 ![image](https://github.com/SpartaTheLove/TheLovePrivate/assets/167046876/90bd79d7-512d-4d7f-b0ad-9446dfea77b2)
 
