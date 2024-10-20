@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-# <p align="center"> **스파르타 캠프 팀프로젝트 - [3D 미연시 게임] The Love**  </p>
+# <p align="center"> **팀프로젝트 - [3D 서바이벌 미연시 게임] The Love**  </p>
 ##### <p align="center"> <b> ![image](https://github.com/user-attachments/assets/c9608a30-d08f-49b2-a487-015df7c7fcec) </b>
 
 ---
